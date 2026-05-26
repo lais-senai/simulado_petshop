@@ -1,7 +1,7 @@
 <?php
 include("conexao.php");
 
-$login = $_POST['email'];
+$email = $_POST['email'];
 $senha = $_POST['senha'];
 
 $sql = "SELECT * FROM usuarios 

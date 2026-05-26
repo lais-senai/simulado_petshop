@@ -1,0 +1,15 @@
+Lista de Requisitos Funcionais
+O sistema deve permitir login com e-mail e senha.
+O sistema deve permitir logout.
+O sistema deve mostrar o nome do usuário logado.
+O sistema deve permitir cadastrar produtos.
+O sistema deve listar os produtos cadastrados.
+O sistema deve permitir buscar produtos pelo nome.
+O sistema deve permitir editar produtos.
+O sistema deve permitir excluir produtos.
+O sistema deve permitir registrar entrada de estoque.
+O sistema deve permitir registrar saída de estoque.
+O sistema deve atualizar o estoque automaticamente.
+O sistema deve avisar quando o estoque estiver abaixo do mínimo.
+O sistema deve registrar o histórico das movimentações.
+O sistema deve registrar qual funcionário fez a movimentação.

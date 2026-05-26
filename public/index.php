@@ -11,7 +11,7 @@
     <form action="login.php" method="post">
 
     Email: <br>
-     <input type="email" nome="email"><br><br>
+     <input type="email" name="email"><br><br>
     
      Senha: <br>
      <input type="text" name="senha"> <br><br>

@@ -1,0 +1,11 @@
+Casos de Teste Resumidos
+Login: verificar se o usuário consegue entrar com e-mail e senha corretos.
+Login inválido: verificar se o sistema mostra erro quando o e-mail ou a senha estão errados.
+Cadastro de produto: verificar se o produto é salvo corretamente.
+Campos vazios: verificar se o sistema avisa quando algum campo obrigatório não foi preenchido.
+Busca de produto: verificar se o sistema encontra produtos pelo nome.
+Edição de produto: verificar se o sistema salva alterações feitas em um produto.
+Exclusão de produto: verificar se o sistema remove o produto da lista.
+Entrada de estoque: verificar se a quantidade do produto aumenta após uma entrada.
+Saída de estoque: verificar se a quantidade do produto diminui após uma saída.
+Estoque mínimo: verificar se o sistema mostra alerta quando o estoque fica abaixo do mínimo.x

@@ -11,7 +11,6 @@ if(!isset($_SESSION['usuario'])){
 <head>
 <meta charset="UTF-8">
 <title>painel</title>
-<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
